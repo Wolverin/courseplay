@@ -223,6 +223,7 @@ function courseplay:load(xmlFile)
 	self.abortWork = nil
 	self.wait = true
 	self.waitTimer = nil
+	self.realistic_driving = true
 	
 	self.cp_directory = cp_directory
 	
