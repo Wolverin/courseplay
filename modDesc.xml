@@ -147,8 +147,8 @@
 	</text>
 
 	<text name="CourseMode7">
-		<en>Type: Combine goes self to unload</en>
-		<de>Typ: Drescher fährt selbst abtanken</de>
+		<en>Type: (Beta)Combine goes self to unload</en>
+		<de>Typ: (Beta)Drescher fährt selbst zum abtanken</de>
 	</text>
 
 	<text name="CourseWaitpointSet">
